@@ -1,20 +1,43 @@
-# Referência: Supervisão e Checkpoints
 
-Delegar não significa sair do processo. Significa mudar o seu papel de executor para supervisor.
+# Supervisão e Checkpoints
 
-## Quando Entrar
+## Objetivo
+Estabelecer pontos de controle para acompanhar tarefas executadas com auxílio da Inteligência Artificial.
 
-- **Deixe continuar** quando o resultado intermediário está correto.
-- **Corrija** quando a IA entendeu algo errado.
-- **Aprove** quando existe uma decisão ou ação importante.
-- **Pare** quando a execução saiu do objetivo.
+## Por que supervisionar?
 
-## Fluxo para Trabalhos Maiores
+A IA pode agilizar tarefas, mas é importante verificar informações, qualidade e resultados antes de utilizar o conteúdo.
 
-**Objetivo → plano → execução → resultado**
+## Checkpoints comerciais
 
-- Confira o plano.
-- Acompanhe a execução.
-- Valide o resultado.
+### 1. Antes da execução
+- [ ] O objetivo está definido?
+- [ ] As informações estão corretas?
+- [ ] A tarefa foi explicada claramente?
 
-**Definir → delegar → acompanhar → validar**
+### 2. Durante a execução
+- [ ] A IA está seguindo as instruções?
+- [ ] O resultado está de acordo com o esperado?
+- [ ] Existem informações que precisam ser corrigidas?
+
+### 3. Antes da entrega
+- [ ] O conteúdo foi revisado?
+- [ ] Os dados comerciais foram conferidos?
+- [ ] O resultado está pronto para utilização?
+
+### 4. Depois da execução
+- [ ] A tarefa foi concluída?
+- [ ] O objetivo foi alcançado?
+- [ ] Existe alguma melhoria para a próxima execução?
+
+## Aplicação no Sistema Coruja
+
+Utilizar os checkpoints para supervisionar:
+- Mensagens de prospecção.
+- Campanhas comerciais.
+- Propostas de vendas.
+- Follow-up de clientes.
+- Reativação de imobiliárias.
+
+## Resultado esperado
+Garantir qualidade, segurança e consistência nas tarefas realizadas com apoio da IA.
