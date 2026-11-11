@@ -1,12 +1,36 @@
-# Checklist: Antes de Delegar uma Tarefa
 
-- [ ] O objetivo está claro?
-- [ ] Dei contexto suficiente?
-- [ ] Defini quais recursos podem ser usados?
-- [ ] Deixei claros os limites?
-- [ ] Defini como será um bom resultado?
-- [ ] Sei quais ações precisam da minha aprovação?
-- [ ] Para uma tarefa maior, pedi o plano antes da execução?
-- [ ] Defini checkpoints para acompanhar o trabalho?
+# Checklist: Antes de Delegar para a IA
 
-**Autonomia não é ambiguidade.**
+## Objetivo
+Preparar corretamente uma tarefa antes de solicitar que a Inteligência Artificial execute o trabalho.
+
+## Preparação da tarefa
+
+- [ ] Defini claramente o que preciso?
+- [ ] Expliquei o contexto da situação?
+- [ ] Informei quem é o público-alvo?
+- [ ] Defini o objetivo esperado?
+- [ ] Escolhi o formato da resposta?
+- [ ] Forneci informações suficientes?
+- [ ] Expliquei o tom de comunicação desejado?
+
+## Aplicação comercial – Sistema Coruja
+
+Antes de pedir à IA uma tarefa comercial:
+
+- [ ] Informar se o contato é um cliente novo ou antigo.
+- [ ] Explicar qual produto ou plano será apresentado.
+- [ ] Informar os benefícios reais do sistema.
+- [ ] Definir se o objetivo é prospectar, vender ou recuperar clientes.
+- [ ] Solicitar uma mensagem adequada para WhatsApp ou outro canal.
+
+## Cuidados importantes
+
+- [ ] Não compartilhar senhas ou dados confidenciais.
+- [ ] Conferir as informações geradas.
+- [ ] Revisar o resultado antes de utilizar.
+- [ ] Manter a decisão final sob responsabilidade humana.
+
+## Resultado esperado
+
+Delegar tarefas à Inteligência Artificial com clareza, segurança e melhores resultados.
