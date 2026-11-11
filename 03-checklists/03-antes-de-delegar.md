@@ -1,4 +1,5 @@
 
+
 # Checklist: Antes de Delegar para a IA
 
 ## Objetivo
