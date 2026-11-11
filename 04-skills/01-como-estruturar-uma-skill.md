@@ -1,18 +1,46 @@
-# Guia: Como Estruturar uma Skill
 
-Uma skill ensina à IA uma maneira reutilizável de realizar determinado tipo de trabalho.
+# Como Estruturar uma Skill
 
-## Estrutura Básica
+## Objetivo
+Criar instruções organizadas para ensinar a Inteligência Artificial a executar tarefas específicas.
 
-1. **Objetivo da skill:** que tipo de trabalho ela ajuda a realizar?
-2. **Instruções:** quais regras devem ser seguidas sempre?
-3. **Procedimento:** quais etapas orientam a execução?
-4. **Verificações:** o que precisa ser conferido antes de concluir?
-5. **Exceções:** o que fazer quando faltarem dados ou houver ambiguidade?
-6. **Formato de saída:** como o resultado deve ser organizado?
+## Estrutura de uma Skill
 
-Dependendo da plataforma, uma skill também pode incluir modelos de arquivos, scripts e outros recursos.
+### 1. Nome
+Definir um nome claro para a habilidade.
 
-> Um prompt salvo não vira automaticamente uma skill. A skill estrutura uma forma de trabalhar.
+### 2. Objetivo
+Explicar o que a IA deverá fazer.
 
-Veja um exemplo completo na [Skill Preparador de Reuniões](02-skill-preparador-de-reunioes.md).
+### 3. Contexto
+Informar em qual situação a habilidade será utilizada.
+
+### 4. Instruções
+Descrever passo a passo como a IA deverá executar a tarefa.
+
+### 5. Formato de saída
+Definir como a resposta deverá ser apresentada.
+
+### 6. Restrições
+Informar o que a IA deve evitar ou conferir.
+
+## Exemplo prático
+
+Nome: Assistente Comercial Imobiliário.
+
+Objetivo: Ajudar na prospecção e recuperação de clientes.
+
+Contexto: Atuação comercial do Sistema Coruja.
+
+Instruções:
+- Identificar o perfil do cliente.
+- Entender sua necessidade.
+- Apresentar os benefícios do sistema.
+- Criar mensagens comerciais.
+- Sugerir próximos passos.
+
+Formato de saída:
+Mensagens curtas, profissionais e consultivas para WhatsApp.
+
+## Resultado esperado
+Criar habilidades reutilizáveis para melhorar a produtividade e a qualidade do trabalho com IA.
