@@ -1,22 +1,46 @@
-# Referência: Gatilhos de Automação
 
-Uma automação é um processo configurado para executar etapas a partir de um horário, um evento ou uma condição.
+# Gatilhos de Automação
 
-## Horário
+## Objetivo
+Identificar situações em que tarefas comerciais podem ser automatizadas com o apoio da Inteligência Artificial.
 
-Exemplo: toda segunda-feira, às 8h, preparar um resumo.
+## O que são gatilhos de automação?
 
-## Evento
+São acontecimentos ou condições que iniciam uma tarefa automaticamente ou indicam que uma ação deve ser executada.
 
-Exemplo: quando um formulário for enviado, iniciar um processo.
+## Aplicação no Sistema Coruja
 
-## Condição
+### 1. Novo cliente interessado
+Gatilho: Recebimento de um novo contato.
 
-Exemplo: quando um indicador ultrapassar determinado limite, gerar um alerta.
+Ação: Organizar os dados e preparar uma mensagem inicial de atendimento.
 
-## Onde a IA Entra
+### 2. Proposta enviada
+Gatilho: Envio de uma proposta comercial.
 
-Automações tradicionais podem funcionar sem IA. A IA entra quando precisamos interpretar informações, resumir conteúdos ou lidar com variações que não cabem facilmente em regras fixas.
+Ação: Programar um acompanhamento para verificar o interesse do cliente.
 
-- **Atalho reutilizável:** evita repetir instruções.
-- **Automação:** pode evitar que você precise iniciar manualmente uma rotina.
+### 3. Cliente sem resposta
+Gatilho: Ausência de retorno após o primeiro contato.
+
+Ação: Preparar uma mensagem de follow-up.
+
+### 4. Cliente inativo
+Gatilho: Identificação de uma imobiliária que não renovou o sistema.
+
+Ação: Preparar uma abordagem de reativação.
+
+### 5. Reunião agendada
+Gatilho: Confirmação de uma reunião comercial.
+
+Ação: Preparar roteiro, perguntas e apresentação.
+
+## Cuidados
+
+- Confirmar os dados antes de executar ações.
+- Respeitar a privacidade dos clientes.
+- Evitar mensagens automáticas excessivas.
+- Revisar as comunicações comerciais.
+
+## Resultado esperado
+Identificar oportunidades de automação para melhorar a produtividade e o acompanhamento comercial.
