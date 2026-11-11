@@ -1,28 +1,30 @@
-# Checklist: Pare, Confira, Use
 
-Antes de usar uma resposta da IA.
+# Checklist: Pare, Confira e Use
 
-## 1. Pare
+## Objetivo
+Verificar se o conteúdo produzido pela Inteligência Artificial está correto antes de utilizá-lo profissionalmente.
 
-- [ ] Qual o impacto se estiver errado?
-- [ ] É uma decisão importante?
-- [ ] Pode gerar prejuízo?
-- [ ] Envolve outras pessoas?
+## Antes de utilizar o conteúdo
 
-## 2. Confira
+- [ ] O texto atende ao objetivo solicitado?
+- [ ] As informações estão corretas?
+- [ ] A linguagem está clara e profissional?
+- [ ] O conteúdo está adequado ao público?
+- [ ] Existem informações inventadas ou exageradas?
+- [ ] O texto transmite confiança?
+- [ ] A mensagem possui uma chamada para ação?
 
-- [ ] Os fatos estão corretos?
-- [ ] Os números fazem sentido?
-- [ ] Datas e nomes estão corretos?
-- [ ] As fontes existem e sustentam a afirmação?
-- [ ] O contexto foi interpretado corretamente?
+## Aplicação no Sistema Coruja
 
-## 3. Use
+Antes de enviar uma mensagem comercial para uma imobiliária ou corretor:
 
-Depois da revisão:
+- [ ] Conferir valores e condições comerciais.
+- [ ] Confirmar os benefícios apresentados.
+- [ ] Verificar se os dados estão atualizados.
+- [ ] Personalizar o nome do cliente.
+- [ ] Revisar a mensagem antes do envio.
 
-- use com mais confiança;
-- reconheça os limites;
-- assuma a responsabilidade pela decisão final.
+## Resultado esperado
 
-**Provável não é o mesmo que verdadeiro.**
+Utilizar conteúdos produzidos pela IA com mais segurança, qualidade e profissionalismo.
+
